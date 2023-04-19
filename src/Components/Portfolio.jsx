@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Solana balance fetcher",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A universal balance fetcher tool(assuming the entire universe is on Solana). It is a simple but powerful app that fetches the balance of any account on Solana!.",
+    url: "https://github.com/shubhsardana29/solana-balance-fetcher",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Taskly",
+    description: "a flutter application that manages todo list using Hive.",
+    url: "https://github.com/shubhsardana29/intro-flutter/tree/main/project2-taskly/taskly",
   },
   {
-    title: "My Resume Site",
+    title: "dapp using Flutter",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Built my first mobile dapp – Hello World Dapp!. Made use of Truffle, Ganache , web3dart library..",
+    url: "https://github.com/shubhsardana29/flutter_dapp_1",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Paginate-NFTs.",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Contributed to a project that Paginate and search for token IDs within a NFT collection, fetches and generate it.",
+    url: "https://paginate-nfts-67fcb6.spheron.app/",
   },
 ];
 
